@@ -1,2 +1,1 @@
-result = 3 + 3 * 5
-print(result)
+print(3 + 3 * 5)
